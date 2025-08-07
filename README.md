@@ -1,0 +1,2 @@
+# oraceldbconnectivity
+python database connectivity
