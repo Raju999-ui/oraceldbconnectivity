@@ -1,0 +1,52 @@
+{
+  "session_1755626264396_6kfjmy6oa": {
+    "created_at": "2025-08-19T23:27:55.287004",
+    "conversations": [
+      {
+        "timestamp": "2025-08-19T23:27:55.287026",
+        "query": "show movies from 2020",
+        "response": "I've got just the thing for you!\n\nYou asked for movies from 2020, and I've got a list of exciting titles to share with you. Here are some of the best movies from 2020 that are currently available on Netflix:\n\n* \"Dick Johnson Is Dead\" - a documentary that follows filmmaker Kirsten Johnson as she stages her father's death in creative ways to help him confront mortality.\n* \"Omo Ghetto: The Saga\" - an action-packed Nigerian comedy that follows twin sisters as they take on family, crime, and the law.\n* \"Really Love\" - a romantic drama that explores the complexities of relationships and identity through the eyes of a rising Black painter.\n* \"The Old Ways\" - a horror movie that follows a reporter as she's kidnapped by locals who believe she's demonically possessed.\n* \"Shikara\" - a romantic drama that tells the story of a couple struggling to adapt to life in a refugee camp after regional hostilities force them to flee their home.\n\nThese movies offer a mix of genres, from documentary to horror to romance. You'll find that each one has its own unique story and style, so you're sure to find something that suits your taste.\n\nEnjoy your movie night!",
+        "metadata": {
+          "query_type": "filter_by_year",
+          "content_type": "Movie",
+          "results_count": 15
+        }
+      },
+      {
+        "timestamp": "2025-08-19T23:28:35.826925",
+        "query": "show movies from 2021",
+        "response": "I've got a list of fantastic movies from 2021 for you!\n\nLooking through our database, I found 18 movies from 2021 that you might enjoy. Here are some highlights:\n\n* \"My Little Pony: A New Generation\" is a heartwarming children's film about unity and friendship. It's perfect for fans of the beloved franchise.\n* \"The Starling\" is a drama-comedy that explores the complexities of grief and relationships. It's a beautiful story about finding hope in the darkest times.\n* \"Je Suis Karl\" is a gripping drama that delves into themes of identity, family, and trauma. It's a thought-provoking film that will keep you on the edge of your seat.\n* \"Intrusion\" is a suspenseful thriller that will keep you guessing until the very end. It's a tense, psychological ride that explores the darker side of human nature.\n* \"Go! Go! Cory Carson: Chrissy Takes the Wheel\" is a fun, family-friendly adventure that's perfect for kids and adults alike. It's a lighthearted, entertaining film that's all about following your dreams.\n* \"Ankahi Kahaniya\" is a poignant drama that explores the human experience through three interconnected stories. It's a beautifully crafted film that celebrates love, loss, and connection.\n* \"The Father Who Moves Mountains\" is an intense drama-thriller that's all about redemption and sacrifice. It's a gripping, emotional ride that will leave you breathless.\n* \"Nightbooks\" is a spooky, yet heartwarming film about the power of storytelling and imagination. It's a great choice for fans of fantasy and adventure.\n* \"Schumacher\" is a fascinating documentary that delves into the life and career of racing legend Michael Schumacher. It's a must-watch for sports enthusiasts and fans of inspiring stories.\n\nThese are just a few of the many amazing movies from 2021 available on Netflix. I hope you find something that piques your interest and enjoys your watch!",
+        "metadata": {
+          "query_type": "filter_by_year",
+          "content_type": "Movie",
+          "results_count": 15
+        }
+      },
+      {
+        "timestamp": "2025-08-19T23:45:03.261899",
+        "query": "movies directed by mike flanagan",
+        "response": "A fan of Mike Flanagan's work, eh? I've got some great news for you! Mike Flanagan has directed some fantastic horror movies that are currently available on Netflix.\n\nLet me show you what I found:\n\n* **Before I Wake** (2016): A horror movie about a family who welcomes a foster child into their lives, only to discover he has a strange ability. (97 min)\n* **Gerald's Game** (2017): Another horror movie, this one about a woman who's handcuffed to a bed in a remote lake house, and must fight for her life against warped visions and dark secrets. (103 min)\n* **Hush** (2016): A tense horror movie about a deaf writer who must fight for her life in silence when a masked killer appears in her window. (82 min)\n\nThese movies showcase Mike Flanagan's skill in crafting suspenseful and chilling stories that will keep you on the edge of your seat. If you enjoyed the movies from 2020 or 2021, you might want to give these a try!\n\nHope you find something that piques your interest!",
+        "metadata": {
+          "query_type": "filter_by_director",
+          "content_type": "Movie",
+          "results_count": 3
+        },
+        "conversation_id": "session_1755626264396_6kfjmy6oa_2"
+      }
+    ],
+    "user_preferences": {
+      "favorite_genres": {},
+      "favorite_years": {},
+      "content_type_preference": {
+        "Movie": 1
+      },
+      "search_patterns": [
+        {
+          "query": "movies directed by mike flanagan",
+          "timestamp": "2025-08-19T23:45:03.261930",
+          "results_count": 3
+        }
+      ]
+    }
+  }
+}
