@@ -1,0 +1,17 @@
+# Core dependencies (required)
+langchain-groq==0.0.1
+langchain-core==0.1.10
+snowflake-connector-python==3.6.0
+pandas==2.1.4
+
+# Optional dependencies for enhanced features
+chromadb==0.4.18  # For vector database contextual saving
+sentence-transformers==2.2.2  # For advanced embeddings (optional)
+numpy==1.24.3  # For numerical operations (optional)
+
+# Web interface dependencies (optional)
+flask==3.0.0  # For simple web interface
+fastapi==0.104.1  # For web API
+uvicorn[standard]==0.24.0  # For web server
+pydantic==2.5.0  # For data validation
+python-multipart==0.0.6  # For file uploads
